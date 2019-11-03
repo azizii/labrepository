@@ -1,0 +1,2 @@
+module facadepattern1 {
+}
